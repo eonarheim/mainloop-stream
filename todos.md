@@ -2,5 +2,6 @@
 * [ ] What is it?
 * [ ] How do I make one?
 * [ ] Time based movement
-* [ ] Implementing Fixed FPS
+* [ ] Limiting FPS
+* [ ] Implementing Fixed Update FPS
 * [ ] Interpolation
