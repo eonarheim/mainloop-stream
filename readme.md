@@ -1,5 +1,7 @@
 ## Mainloop Stream Code
 
+Watch the video https://youtu.be/gF5FDCNieJg
+
 This code is from a live stream where we talk about
 
 * Building a basic mainloop
